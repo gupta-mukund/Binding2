@@ -1,0 +1,110 @@
+[
+  {
+    "Sigla": "RK",
+    "NomeGenere": "Rock",
+    "Cantanti": [
+      {
+        "Id": 1,
+        "NomeCompleto": "David Bowie",
+        "NomeArte": "Duca Bianco",
+        "Nazionalita": "Uk",
+        "Canzoni": []
+      },
+      {
+        "Id": 2,
+        "NomeCompleto": "Bruce Springesteen",
+        "NomeArte": "The Boss",
+        "Nazionalita": "Usa",
+        "Canzoni": []
+      },
+      {
+        "Id": 3,
+        "NomeCompleto": "Anna Bullock",
+        "NomeArte": "Tina Turner",
+        "Nazionalita": "Usa",
+        "Canzoni": []
+      }
+    ]
+  },
+  {
+    "Sigla": "PP",
+    "NomeGenere": "Pop",
+    "Cantanti": [
+      {
+        "Id": 1,
+        "NomeCompleto": "Robin Rihanna",
+        "NomeArte": "Rihanna",
+        "Nazionalita": "Barbados",
+        "Canzoni": []
+      },
+      {
+        "Id": 2,
+        "NomeCompleto": "Veronica Ciccone",
+        "NomeArte": "Madonna",
+        "Nazionalita": "Usa",
+        "Canzoni": []
+      },
+      {
+        "Id": 1,
+        "NomeCompleto": "Justine Timberlake",
+        "NomeArte": "Timbarlake",
+        "Nazionalita": "Usa",
+        "Canzoni": []
+      }
+    ]
+  },
+  {
+    "Sigla": "RkC",
+    "NomeGenere": "Rock Complessi",
+    "Cantanti": [
+      {
+        "Id": 1,
+        "NomeCompleto": "Pink Floyd",
+        "NomeArte": "genio puro",
+        "Nazionalita": "Uk",
+        "Canzoni": []
+      },
+      {
+        "Id": 2,
+        "NomeCompleto": "Alan Parson",
+        "NomeArte": "Project",
+        "Nazionalita": "Uk",
+        "Canzoni": []
+      },
+      {
+        "Id": 3,
+        "NomeCompleto": "Mark Knopfler",
+        "NomeArte": "Dire Straits",
+        "Nazionalita": "Uk",
+        "Canzoni": []
+      }
+    ]
+  },
+  {
+    "Sigla": "ITA",
+    "NomeGenere": "Melodia Italiana",
+    "Cantanti": [
+      {
+        "Id": 1,
+        "NomeCompleto": "Eros Ramazzotti",
+        "NomeArte": "Eros",
+        "Nazionalita": "Lazio",
+        "Canzoni": []
+      },
+      {
+        "Id": 2,
+        "NomeCompleto": "Antonio Ligabue",
+        "NomeArte": "Liga",
+        "Nazionalita": "Emilia",
+        "Canzoni": []
+      },
+      {
+        "Id": 3,
+        "NomeCompleto": "Lorenzo Cherubini",
+        "NomeArte": "Jovanotti",
+        "Nazionalita": "Toscana",
+        "Canzoni": []
+      }
+    ]
+  }
+]

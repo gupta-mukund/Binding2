@@ -8,9 +8,19 @@ namespace binding2
 {
     class Cantante
     {
-        public string Id { get; set; }
-        public string NomeCanzone { get; set; }
-        public string AnnoProduzione { get; set; }
+        public Cantante(int id, string nomeCompleto, string nomeArte, string nazionalita )
+        {
+            Id = id;
+            NomeCompleto = nomeCompleto;
+            NomeArte = nomeArte;
+            Nazionalita = nazionalita;
+            Canzoni = new List<Canzone>();
+        }
+
+        public int Id { get; set; }
+       
+        
+        public string NomeCompleto { get; set; }
         public string NomeArte { get; set; }
         public string Nazionalita { get; set; }
         public List<Canzone> Canzoni { get; set; }

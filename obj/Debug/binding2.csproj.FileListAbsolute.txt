@@ -1,0 +1,13 @@
+C:\Users\gupta\OneDrive\Desktop\scuola\quarta\informatica\c#\forms\Binding2\bin\Debug\binding2.exe.config
+C:\Users\gupta\OneDrive\Desktop\scuola\quarta\informatica\c#\forms\Binding2\bin\Debug\binding2.exe
+C:\Users\gupta\OneDrive\Desktop\scuola\quarta\informatica\c#\forms\Binding2\bin\Debug\binding2.pdb
+C:\Users\gupta\OneDrive\Desktop\scuola\quarta\informatica\c#\forms\Binding2\obj\Debug\binding2.csproj.AssemblyReference.cache
+C:\Users\gupta\OneDrive\Desktop\scuola\quarta\informatica\c#\forms\Binding2\obj\Debug\binding2.Form1.resources
+C:\Users\gupta\OneDrive\Desktop\scuola\quarta\informatica\c#\forms\Binding2\obj\Debug\binding2.Properties.Resources.resources
+C:\Users\gupta\OneDrive\Desktop\scuola\quarta\informatica\c#\forms\Binding2\obj\Debug\binding2.csproj.GenerateResource.cache
+C:\Users\gupta\OneDrive\Desktop\scuola\quarta\informatica\c#\forms\Binding2\obj\Debug\binding2.csproj.CoreCompileInputs.cache
+C:\Users\gupta\OneDrive\Desktop\scuola\quarta\informatica\c#\forms\Binding2\obj\Debug\binding2.exe
+C:\Users\gupta\OneDrive\Desktop\scuola\quarta\informatica\c#\forms\Binding2\obj\Debug\binding2.pdb
+C:\Users\gupta\OneDrive\Desktop\scuola\quarta\informatica\c#\forms\Binding2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gupta\OneDrive\Desktop\scuola\quarta\informatica\c#\forms\Binding2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\gupta\OneDrive\Desktop\scuola\quarta\informatica\c#\forms\Binding2\obj\Debug\binding2.Form2.resources

@@ -8,15 +8,15 @@ namespace binding2
 {
     class Canzone
     {
-        public Canzone(string id, string nomeCanzone, string annoProduzione)
+        public Canzone(int id, string nomeCanzone, int annoProduzione)
         {
             Id = id;
             NomeCanzone = nomeCanzone;
             AnnoProduzione = annoProduzione;
         }
 
-        public string Id { get; set; }
+        public int Id { get; set; }
         public string NomeCanzone { get; set; }
-        public string AnnoProduzione { get; set; }
+        public int AnnoProduzione { get; set; }
     }
 }
