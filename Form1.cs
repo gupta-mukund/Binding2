@@ -20,6 +20,21 @@ namespace binding2
 
         void GenerateMusicList(ref List<GenereMusica> list)
         {
+            Dictionary<string, string[]> genres = new Dictionary<string, string[]>() {
+                { "Hip Hop", new string[] {"Eminem", "Ye"} },
+                {"Indie", new string[] { "The Killers", "The Shins"}},
+                {"Classical", new string[] { "Ludwig van Beethoven", "Amadeus Mozart"}} 
+            };
+            string[,,] songs = { 
+                    { { "Venom", "2018" }, { "Rap God", "2013" } },
+                    { { "Mr. Brightside", "2004" }, { "Somebody Told Me", "2004" } },
+                    { { "Venom", "2018" }, { "Rap God", "2013" } } 
+                };
+            foreach (var item in genres)
+            {
+                //Canzone canzone = new Canzone();
+                //GenereMusica genere = new GenereMusica();
+            }
 
         }
     }

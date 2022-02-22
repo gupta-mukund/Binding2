@@ -8,6 +8,13 @@ namespace binding2
 {
     class Canzone
     {
+        public Canzone(string id, string nomeCanzone, string annoProduzione)
+        {
+            Id = id;
+            NomeCanzone = nomeCanzone;
+            AnnoProduzione = annoProduzione;
+        }
+
         public string Id { get; set; }
         public string NomeCanzone { get; set; }
         public string AnnoProduzione { get; set; }

@@ -10,12 +10,13 @@ namespace binding2
     {
         public string Sigla { get; set; }
         public string NomeGenere { get; set; }
-        public List<Cantante> Canzoni { get; set; }
+        public List<Cantante> Cantanti { get; set; }
 
         public GenereMusica(string sigla, string nomeGenere, List<Cantante> list)
         {
             Sigla = sigla;
             NomeGenere = nomeGenere;
+            Cantanti = list;
         }
     }
 }
